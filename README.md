@@ -1,4 +1,4 @@
-# ECommerce Model
+
 
 ##Function
 this is a model of how a potential ecommerce businesses backend would look, there is no front end and it is seeded information.
@@ -12,4 +12,5 @@ the api routes are as follows;
 /api/categories
 /api/tags
 ///
+
 with these categories, you can look up all the information in the db and see how each piece interacts with the other.
